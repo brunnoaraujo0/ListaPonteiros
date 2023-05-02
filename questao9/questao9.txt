@@ -1,0 +1,22 @@
+- Caso x seja declado como um vetor do tipo char:
+x + 1 = 4093;
+x + 2 = 4094;
+x + 3 = 4095;
+
+
+- Caso x seja declado como um vetor do tipo int:
+x + 1 = 4094;
+x + 2 = 4096;
+x + 3 = 4098;
+
+
+- Caso x seja declado como um vetor do tipo float
+x + 1 = 4096;
+x + 2 = 409A;
+x + 3 = 409E;
+
+
+- Caso x seja declado como um vetor do tipo double
+x + 1 = 409A;
+x + 2 = 40A2;
+x + 3 = 40AA;
