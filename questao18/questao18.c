@@ -14,7 +14,7 @@ float **alocaMat(float **m, int nl,int nc){
 }
 
 
-void matRecebe(float **m, int nl,int nc){
+void matRecebe(float  **m, int nl,int nc){
 
     for(int i = 0; i < nl; i++){
         for (int j = 0; j < nc; j++){
